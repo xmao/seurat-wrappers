@@ -48,6 +48,7 @@ Collate:
     'fast_mnn.R'
     'glmpca.R'
     'liger.R'
+    'magic.R'
     'monocle3.R'
     'presto.R'
     'velocity.R'
